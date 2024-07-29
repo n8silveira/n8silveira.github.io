@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nathaniel Silveira, Website Maker, Launches First Site"
+title: "Nathaniel Silveira, Famous YouTuber, Launches First Site"
 date: 2024-07-29
 ---
 
